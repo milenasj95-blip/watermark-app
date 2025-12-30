@@ -1,0 +1,6 @@
+output/
+*.jpg
+*_marca.png
+*_marca.jpg
+__pycache__/
+*.pyc
