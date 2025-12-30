@@ -69,5 +69,5 @@ Escolha de diferentes formatos de saída
 
 Autora
 
-Milenda
+Milena
 Estudante de TI, com interesse em desenvolvimento de software e automação.
